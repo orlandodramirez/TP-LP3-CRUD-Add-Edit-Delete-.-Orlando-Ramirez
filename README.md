@@ -4,6 +4,8 @@
 
 Aplicación web simple de CRUD (Crear, Leer, Actualizar, Borrar) desarrollada en *HTML, JavaScript, PHP y MySQL*. 
 
+*Tambien contamos con un video de la vista previa de la web*
+
 **Su propósito es gestionar una lista de artículos en una base de datos.**
 
 **Estructura de la aplicación**
